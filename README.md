@@ -2,7 +2,7 @@
 
 ![Banner Image](banner.png)
 
-A passionate Dartmouth College computer science and design student, specializing in web and application development.
+<!-- A passionate Dartmouth College computer science and design student, specializing in web and application development. -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mcquilkin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.adammcquilkin.com/)
