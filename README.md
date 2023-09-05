@@ -13,9 +13,9 @@ Hello! My name is Adam and I'm an open-source developer. I'm currently working w
 
 I joined the Meshtastic project in 2022 with the goal of simplifying the process of deploying and managing large-scale ad-hoc mesh networks. Meshtastic maintains clients that allow for management of singular mesh radios, but not for managing large-scale networks.
 
-I'm building a [network management client](https://github.com/ajmcquilkin/meshtastic-network-management-client) desktop application that allows users to create, configure, and manage large-scale Meshtastic networks. I'm also building a [network simulator](https://github.com/ajmcquilkin/meshtastic-network-simulator) desktop application that allows users to simulate large-scale Meshtastic networks. This simulator is used both to test the desktop application and to test the Meshtastic firmware.
+As part of this goal, I am building the [Meshtastic Network Management Client](https://github.com/ajmcquilkin/meshtastic-network-management-client), a desktop application that allows users to create, configure, and manage large-scale Meshtastic networks. I'm also building the [Meshtastic Network Simulator](https://github.com/ajmcquilkin/meshtastic-network-simulator), a desktop application that allows users to simulate large-scale Meshtastic networks. This simulator is used both to test the network management client and to test the Meshtastic firmware.
 
-I also maintain the [Meshtastic Rust library](https://github.com/meshtastic/rust), which allows developers to easily interface with Meshtastic radios from Rust. This library is used by both the network management client and the network simulator.
+I also maintain the official [Meshtastic Rust library](https://github.com/meshtastic/rust), which allows developers to easily interface with Meshtastic radios in a type-safe way from Rust. This library is used by both the network management client and the network simulator.
 
 ## :chart_with_upwards_trend: My Stats
 
