@@ -2,10 +2,20 @@
 
 ![Banner Image](banner.png)
 
-<!-- A passionate Dartmouth College computer science and design student, specializing in web and application development. -->
+## :wave: About Me
+
+Hello! My name is Adam and I'm an open-source developer. I'm currently working with the @meshtastic project to build reliable, long-range, and affordable mesh networks. I studied CS and Engineering at Dartmouth College, and I'm currently working as a SWE at Microsoft. I'm very experienced in Rust, TypeScript, and React, and I'm somewhat experienced in embedded systems and C/C++.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mcquilkin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.adammcquilkin.com/)
+
+## :sparkles: What I'm Working On
+
+I joined the Meshtastic project in 2022 with the goal of simplifying the process of deploying and managing large-scale ad-hoc mesh networks. Meshtastic maintains clients that allow for management of singular mesh radios, but not for managing large-scale networks.
+
+I'm building a [network management client](https://github.com/ajmcquilkin/meshtastic-network-management-client) desktop application that allows users to create, configure, and manage large-scale Meshtastic networks. I'm also building a [network simulator](https://github.com/ajmcquilkin/meshtastic-network-simulator) desktop application that allows users to simulate large-scale Meshtastic networks. This simulator is used both to test the desktop application and to test the Meshtastic firmware.
+
+I also maintain the [Meshtastic Rust library](https://github.com/meshtastic/rust), which allows developers to easily interface with Meshtastic radios from Rust. This library is used by both the network management client and the network simulator.
 
 ## :chart_with_upwards_trend: My Stats
 
@@ -26,6 +36,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 
@@ -41,6 +52,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 <!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) -->
 
