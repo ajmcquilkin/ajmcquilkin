@@ -4,7 +4,7 @@
 
 ## :wave: About Me
 
-Hello! My name is Adam and I'm an open-source developer. I'm currently working with the @meshtastic project to build reliable, long-range, and affordable mesh networks. I studied CS and Engineering at Dartmouth College, and I'm currently working as a SWE at Microsoft. I'm very experienced in Rust, TypeScript, and React, and I have background in embedded systems and C/C++.
+Hello! My name is Adam and I'm an open-source developer. I'm currently working with the @meshtastic project to build reliable, long-range, and affordable mesh networks. I studied CS and Engineering at Dartmouth College, and I'm currently working in the small business tech world. I'm very experienced in Rust, TypeScript, and React, and I have background in embedded systems and C/C++.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-mcquilkin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.adammcquilkin.com/)
